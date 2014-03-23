@@ -1,0 +1,95 @@
+Division,Line,Station_Name,Station_Latitude,Station_Longitude,Route_1,Route_2,Route_3,Route_4,Route_5,Route_6,Route_7,Route_8,Route_9,Route_10,Route_11,Entrance_Type,Entry,Exit_Only,Vending,Staffing,Staff_Hours,ADA,ADA_Notes,Free_Crossover,North_South_Street,East_West_Street,Corner,Latitude,Longitude
+BMT,Astoria,Ditmars Blvd,40.775036,-73.912034,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,23rd Ave,NW,40.775149,-73.912074
+BMT,Astoria,Ditmars Blvd,40.775036,-73.912034,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,23rd Ave,NE,40.77481,-73.912151
+BMT,Astoria,Ditmars Blvd,40.775036,-73.912034,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,23rd Ave,NE,40.775025,-73.911891
+BMT,Astoria,Ditmars Blvd,40.775036,-73.912034,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,23rd Ave,NW,40.774938,-73.912337
+BMT,Astoria,Astoria Blvd-Hoyt Av,40.770258,-73.917843,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,Hoyt Ave South,SW,40.770313,-73.917978
+BMT,Astoria,Astoria Blvd-Hoyt Av,40.770258,-73.917843,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,Hoyt Ave South,SE,40.77017,-73.917755
+BMT,Astoria,Astoria Blvd-Hoyt Av,40.770258,-73.917843,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,Hoyt Ave North,NW,40.771009,-73.917167
+BMT,Astoria,Astoria Blvd-Hoyt Av,40.770258,-73.917843,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,Hoyt Ave North,NE,40.77087,-73.916935
+BMT,Astoria,30 Av-Grand Av,40.766779,-73.921479,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,30th Ave,SW,40.766787,-73.921629
+BMT,Astoria,30 Av-Grand Av,40.766779,-73.921479,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,30th Ave,SE,40.7667,-73.921406
+BMT,Astoria,30 Av-Grand Av,40.766779,-73.921479,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,30th Ave,NW,40.767052,-73.921409
+BMT,Astoria,30 Av-Grand Av,40.766779,-73.921479,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,30th Ave,NE,40.766963,-73.921192
+BMT,Astoria,Broadway,40.76182,-73.925508,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,Broadway,SW,40.76188,-73.925638
+BMT,Astoria,Broadway,40.76182,-73.925508,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,Broadway,SE,40.761773,-73.925399
+BMT,Astoria,Broadway,40.76182,-73.925508,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,Broadway,NW,40.762217,-73.925349
+BMT,Astoria,36 Av-Washington Av,40.756804,-73.929575,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,36th Ave,SW,40.756478,-73.929993
+BMT,Astoria,36 Av-Washington Av,40.756804,-73.929575,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,36th Ave,SE,40.756379,-73.929766
+BMT,Astoria,36 Av-Washington Av,40.756804,-73.929575,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,36th Ave,NW,40.756796,-73.92974
+BMT,Astoria,39 Av-Beebe Av,40.752882,-73.932755,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,39th Ave,NW,40.752901,-73.932903
+BMT,Astoria,39 Av-Beebe Av,40.752882,-73.932755,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,39th Ave,SE,40.752491,-73.932936
+BMT,Broadway,5th Av,40.764811,-73.973347,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,5th Ave,60th St,NW,40.765156,-73.972501
+BMT,Broadway,5th Av,40.764811,-73.973347,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,5th Ave,60th St,SE,40.764728,-73.972396
+BMT,Broadway,5th Av,40.764811,-73.973347,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,5th Ave,60th St,NE,40.764849,-73.972306
+BMT,Broadway,5th Av,40.764811,-73.973347,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,5th Ave,60th St,SE,40.764657,-73.972229
+BMT,Broadway,57th St,40.764664,-73.980658,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,57th St,SW,40.765365,-73.980341
+BMT,Broadway,57th St,40.764664,-73.980658,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,57th St,SE,40.765298,-73.980033
+BMT,Broadway,57th St,40.764664,-73.980658,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,57th St,NW,40.765796,-73.980012
+BMT,Broadway,57th St,40.764664,-73.980658,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,7th Ave,57th St,NE,40.765639,-73.979764
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,Northbound Only,FALSE,7th Ave,49th St,SW,40.760486,-73.983974
+BMT,Broadway,49th St,40.759901,-73.984139,N,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,Northbound Only,FALSE,7th Ave,49th St,NW,40.760621,-73.983904
+BMT,Broadway,28th St,40.745494,-73.988691,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,28th St,SE,40.745089,-73.988472
+BMT,Broadway,28th St,40.745494,-73.988691,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,28th St,NE,40.745299,-73.988579
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,SE,40.74108,-73.989083
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,SE,40.741111,-73.98892
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,NE,40.741378,-73.988895
+BMT,Broadway,23rd St,40.741303,-73.989344,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,23rd St,NE,40.741539,-73.988989
+BMT,Broadway,Union Square,40.735736,-73.990568,L,N,Q,R,4,5,6,,,,,Stair,YES,,YES,FULL,,TRUE,Lex not ADA,TRUE,Broadway,14th St,NE,40.735278,-73.991058
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,8th Ave,SE,40.730477,-73.992286
+BMT,Broadway,8th St,40.730328,-73.992629,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,8th Ave,NE,40.730578,-73.992216
+BMT,Broadway,Prince St,40.724329,-73.997702,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,Prince St,SE,40.724124,-73.997686
+BMT,Broadway,Prince St,40.724329,-73.997702,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Broadway,Prince St,NE,40.72422,-73.997633
+BMT,Broadway,City Hall,40.713282,-74.006978,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Warren St,SE,40.71311,-74.007045
+BMT,Broadway,City Hall,40.713282,-74.006978,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Warren St,NE,40.713437,-74.00676
+BMT,Broadway,City Hall,40.713282,-74.006978,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Broadway,Warren St,SE,40.713521,-74.006697
+BMT,Broadway,Cortlandt St,40.710668,-74.011029,R,,,,,,,,,,,Stair,NO,,NO,FULL,,FALSE,,TRUE,Church St,Dey St,NE,40.710871,-74.010767
+BMT,Broadway,Cortlandt St,40.710668,-74.011029,R,,,,,,,,,,,Stair,NO,,NO,FULL,,FALSE,,TRUE,Church St,Dey St,SE,40.711065,-74.010644
+BMT,Broadway,Rector St,40.70722,-74.013342,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Trinity Pl,Rector St,SE,40.707647,-74.012924
+BMT,Broadway,Rector St,40.70722,-74.013342,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Trinity Pl,Rector St,NE,40.707902,-74.012774
+BMT,Broadway,Rector St,40.70722,-74.013342,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,Trinity Pl,Rector St,NE,40.708028,-74.012696
+BMT,Broadway,Whitehall St,40.703087,-74.012994,R,1,,,,,,,,,,Stair,YES,,NO,FULL,,FALSE,,TRUE,,,,40.701938,-74.012588
+BMT,Broadway,Whitehall St,40.703087,-74.012994,R,1,,,,,,,,,,Stair,YES,,NO,FULL,,FALSE,,TRUE,,,,40.702108,-74.012642
+BMT,Broadway,Whitehall St,40.703087,-74.012994,R,1,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,,,,40.702108,-74.012642
+BMT,Broadway,Lawrence St,40.69218,-73.985942,A,C,F,R,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Lawrence St,Willoughby St,SE,40.692114,-73.986107
+BMT,Broadway,Lawrence St,40.69218,-73.985942,A,C,F,R,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Lawrence St,Willoughby St,SE,40.692258,-73.986114
+BMT,Broadway,Lawrence St,40.69218,-73.985942,A,C,F,R,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Lawrence St,Willoughby St,NE,40.692052,-73.986191
+BMT,Broadway,Lawrence St,40.69218,-73.985942,A,C,F,R,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,Lawrence St,Willoughby St,NE,40.692359,-73.986181
+BMT,4 Avenue,DeKalb Av,40.690635,-73.981824,B,Q,R,,,,,,,,,Elevator,YES,,YES,FULL,,TRUE,,TRUE,Flatbush Ave,De Kalb Ave,SE,40.689804,-73.981164
+BMT,4 Avenue,DeKalb Av,40.690635,-73.981824,B,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Flatbush Ave,De Kalb Ave,SW,40.68981,-73.981651
+BMT,4 Avenue,DeKalb Av,40.690635,-73.981824,B,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Flatbush Ave,De Kalb Ave,SE,40.689817,-73.981082
+BMT,4 Avenue,DeKalb Av,40.690635,-73.981824,B,Q,R,,,,,,,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,Flatbush Ave,De Kalb Ave,SE,40.68974,-73.981156
+BMT,4 Avenue,Atlantic Av-Barclays Ctr,40.683666,-73.97881,B,Q,D,N,R,2,3,4,5,,,Elevator,YES,,YES,FULL,,TRUE,,TRUE,4th Ave,Pacific St,NE,40.683805,-73.978487
+BMT,4 Avenue,Pacific St,40.683666,-73.97881,B,Q,D,N,R,2,3,4,5,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,4th Ave,Pacific St,NW,40.683905,-73.978879
+BMT,4 Avenue,Pacific St,40.683666,-73.97881,B,Q,D,N,R,2,3,4,5,,,Stair,YES,,YES,FULL,,TRUE,,TRUE,4th Ave,Pacific St,NE,40.683928,-73.978412
+BMT,4 Avenue,Union St,40.677316,-73.98311,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,4th Ave,Union St,SE,40.677001,-73.983133
+BMT,4 Avenue,Union St,40.677316,-73.98311,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,4th Ave,Union St,SW,40.677279,-73.983327
+BMT,4 Avenue,Union St,40.677316,-73.98311,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,4th Ave,Union St,SE,40.677171,-73.98302
+BMT,4 Avenue,9th St,40.670847,-73.988302,F,G,R,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,9th St,NE,40.670387,-73.98848
+BMT,4 Avenue,Prospect Av,40.665414,-73.992872,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,4th Ave,Prospect Ave,NE,40.665299,-73.992729
+BMT,4 Avenue,Prospect Av,40.665414,-73.992872,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,4th Ave,Prospect Ave,SW,40.665058,-73.993002
+BMT,4 Avenue,25th St,40.660397,-73.998091,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,FALSE,4th Ave,25th St,SE,40.660323,-73.997952
+BMT,4 Avenue,36th St,40.655144,-74.003549,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,36th St,NW,40.65449,-74.004499
+BMT,4 Avenue,36th St,40.655144,-74.003549,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,36th St,NE,40.654365,-74.004113
+BMT,4 Avenue,36th St,40.655144,-74.003549,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,36th St,NW,40.654676,-74.004306
+BMT,4 Avenue,45th St,40.648939,-74.010006,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,45th St,NE,40.649389,-74.009333
+BMT,4 Avenue,45th St,40.648939,-74.010006,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,45th St,NW,40.649424,-74.009728
+BMT,4 Avenue,45th St,40.648939,-74.010006,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,45th St,NE,40.649265,-74.009457
+BMT,4 Avenue,45th St,40.648939,-74.010006,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,45th St,NW,40.649546,-74.009602
+BMT,4 Avenue,53rd St,40.645069,-74.014034,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,53rd St,SW,40.644653,-74.01469
+BMT,4 Avenue,53rd St,40.645069,-74.014034,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,53rd St,SE,40.644493,-74.014419
+BMT,4 Avenue,53rd St,40.645069,-74.014034,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,53rd St,SW,40.644756,-74.014586
+BMT,4 Avenue,53rd St,40.645069,-74.014034,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,53rd St,SE,40.644601,-74.014309
+BMT,4 Avenue,59th St,40.641362,-74.017881,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,59th St,NW,40.641606,-74.017897
+BMT,4 Avenue,59th St,40.641362,-74.017881,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,59th St,NE,40.641435,-74.017561
+BMT,4 Avenue,59th St,40.641362,-74.017881,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,59th St,NW,40.641778,-74.017722
+BMT,4 Avenue,59th St,40.641362,-74.017881,N,R,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,59th St,NE,40.641633,-74.017362
+BMT,4 Avenue,Bay Ridge Av,40.634967,-74.023377,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,Bay Ridge Ave,NW,40.634827,-74.02358
+BMT,4 Avenue,Bay Ridge Av,40.634967,-74.023377,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,Bay Ridge Ave,NE,40.634768,-74.023339
+BMT,4 Avenue,77th St,40.629742,-74.02551,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,77th St,NW,40.62955,-74.025731
+BMT,4 Avenue,77th St,40.629742,-74.02551,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,77th St,NE,40.629503,-74.025452
+BMT,4 Avenue,86th St,40.622687,-74.028398,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,86th St,SW,40.622656,-74.028547
+BMT,4 Avenue,86th St,40.622687,-74.028398,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,86th St,SE,40.622583,-74.028315
+BMT,4 Avenue,95th St,40.616622,-74.030876,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,95th St,SW,40.616021,-74.031383
+BMT,4 Avenue,95th St,40.616622,-74.030876,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,5th Ave,95th St,NE,40.615893,-74.03086
+BMT,4 Avenue,95th St,40.616622,-74.030876,R,,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,4th Ave,95th St,NW,40.616189,-74.031234
